@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 876efcf02118ed9428b70dd9da766f00
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DrawCall_0319
+    100004: DrawCall_0508
+    100006: DrawCall_0520
+    100008: DrawCall_0546
+    100010: DrawCall_0547
+    100012: DrawCall_0548
+    100014: DrawCall_0549
+    100016: DrawCall_0550
+    100018: DrawCall_0551
+    100020: DrawCall_0552
+    100022: DrawCall_0553
+    100024: DrawCall_0554
+    100026: DrawCall_0555
+    100028: DrawCall_0556
+    400000: //RootNode
+    400002: DrawCall_0319
+    400004: DrawCall_0508
+    400006: DrawCall_0520
+    400008: DrawCall_0546
+    400010: DrawCall_0547
+    400012: DrawCall_0548
+    400014: DrawCall_0549
+    400016: DrawCall_0550
+    400018: DrawCall_0551
+    400020: DrawCall_0552
+    400022: DrawCall_0553
+    400024: DrawCall_0554
+    400026: DrawCall_0555
+    400028: DrawCall_0556
+    2100000: material14
+    2100002: scene_material
+    2100004: material13
+    2100006: scene_material1
+    2100008: material2
+    2100010: material8
+    2100012: material15
+    2100014: material11
+    2100016: material17
+    2100018: material
+    2100020: material16
+    2100022: material4
+    2100024: material5
+    2100026: material9
+    2300000: DrawCall_0319
+    2300002: DrawCall_0508
+    2300004: DrawCall_0520
+    2300006: DrawCall_0546
+    2300008: DrawCall_0547
+    2300010: DrawCall_0548
+    2300012: DrawCall_0549
+    2300014: DrawCall_0550
+    2300016: DrawCall_0551
+    2300018: DrawCall_0552
+    2300020: DrawCall_0553
+    2300022: DrawCall_0554
+    2300024: DrawCall_0555
+    2300026: DrawCall_0556
+    3300000: DrawCall_0319
+    3300002: DrawCall_0508
+    3300004: DrawCall_0520
+    3300006: DrawCall_0546
+    3300008: DrawCall_0547
+    3300010: DrawCall_0548
+    3300012: DrawCall_0549
+    3300014: DrawCall_0550
+    3300016: DrawCall_0551
+    3300018: DrawCall_0552
+    3300020: DrawCall_0553
+    3300022: DrawCall_0554
+    3300024: DrawCall_0555
+    3300026: DrawCall_0556
+    4300000: DrawCall_0319
+    4300002: DrawCall_0508
+    4300004: DrawCall_0520
+    4300006: DrawCall_0546
+    4300008: DrawCall_0547
+    4300010: DrawCall_0548
+    4300012: DrawCall_0549
+    4300014: DrawCall_0550
+    4300016: DrawCall_0551
+    4300018: DrawCall_0552
+    4300020: DrawCall_0553
+    4300022: DrawCall_0554
+    4300024: DrawCall_0555
+    4300026: DrawCall_0556
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

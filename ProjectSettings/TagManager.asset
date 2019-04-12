@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Leon_Kennedy
+  - CameraMain
+  - Stair
+  - Visual_Stair
+  - Effect_Gunshot
+  - MainCamera2
+  - Fire
+  - Sound Controller
+  - Enemy
+  - Car
+  - BulletCase
+  - HitPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Stair
+  - Effect_Gunshot
+  - Controller
+  - Enemy
+  - Car
+  - CoverWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
